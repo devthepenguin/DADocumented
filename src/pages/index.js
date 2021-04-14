@@ -8,32 +8,33 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Easy to Use',
+    title: 'About',
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+       DataAnnotated is a platform which offers various data annotation task with easy collaboration with peers.
+       The platform creates a seamless integration between data in annotation and data used in development. 
+       This way the developer can keep track of the annotated data while in development with no need for manually checking the annotated data every once in a while.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'What it does',
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        A complimentary python package is developed connecting their user profile during development. 
+        In this way, they could annotate their data and download it from the package during development.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Getting Started',
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        DataAnnotated is a platform which offers various data annotation task with easy collaboration with peers. The platform creates a seamless integration between data in annotation and data used in development. 
+        This way the developer can keep track of the annotated data while in development with no need for manually checking the annotated data every once in a while.
       </>
     ),
   },
