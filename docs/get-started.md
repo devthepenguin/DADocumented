@@ -16,3 +16,23 @@ DataAnnotated is a platform which offers various data annotation task with easy 
 
 A complimentary python package is developed connecting their user profile during development. In this way, they could annotate their data and download it from the package during development.
 
+# User Interface
+
+# Getting Started
+
+# Built With 
+
+- [MongoDB](https://www.mongodb.com)
+- [Express.js](https://expressjs.com)
+- [React](https://reactjs.org)
+- [Node.js](https://nodejs.org/en/)
+
+# Team Members
+
+- [Siddhesh Sambasivam](https://github.com/SiddeshSambasivam)
+- [Nhi Mai-Do](https://github.com/n-maido)
+- [Ravisha Sharma](https://github.com/ravisha7feb)
+
+# License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) 
