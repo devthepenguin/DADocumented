@@ -5,7 +5,7 @@ title: Data Annotated
 ---
 
 <p align="center">
-  <img src="/static/img/DataAnnotatedLogo.png" alt="DA Logo"  width="180" height="140" /> 
+  <img src="/build/img/DataAnnotatedLogo.png" alt="DA Logo"  width="180" height="140" /> 
 </p>
 
 ## Installation
@@ -43,7 +43,7 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 ## User Interface
 
 <p align="center">
-  <img src="/static/img/ui.png" alt="DA Logo"  width="500" height="256" /> 
+  <img src="/build/img/ui.png" alt="DA Logo"  width="500" height="256" /> 
 </p>
 
 # Built With 

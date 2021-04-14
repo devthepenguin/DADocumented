@@ -2,13 +2,13 @@
 module.exports = {
   title: 'Data Annotated',
   tagline: 'Seamless Integration between Annotation and Development',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://devthepenguin.github.io/DADocumented/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'devthepenguin', // Usually your GitHub org/user name.
+  projectName: 'DADocumented', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Home',
