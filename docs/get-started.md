@@ -19,6 +19,7 @@ A complimentary python package is developed connecting their user profile during
 # User Interface
 
 # Getting Started
+<!-- `git clone https://github.com/SiddeshSambasivam/DataAnnotated.git` -->
 
 # Built With 
 
