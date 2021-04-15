@@ -8,21 +8,35 @@ title: Data Annotated
   <img src="/build/img/DataAnnotatedLogo.png" alt="DA Logo"  width="180" height="140" /> 
 </p>
 
-## Installation
+## Setup Environment 
 
+1. Clone the repository :
 ```console
 git clone https://github.com/SiddeshSambasivam/DataAnnotated.git
 cd ../DataAnnotated
-yarn install
 ```
 
-## Local Development
+2. Create a .env file :
+```
+touch .env
+```
 
+3. Add environment variables to .env. Sample .env file :
+```
+DB_CONNECT = mongodb+srv://admin:dataannotated123@cluster0.jpypu.mongodb.net/test
+TOKEN_SECRET = dataannotated123
+```
+
+4. Run npm install if this is the first build or if new packages have been added :
+```
+npm install
+```
+
+5. Run npm start. This command will start a local development server and open up a browser window. Most changes should be reflected live without having to restart the server :
 ```console
-yarn start
+npm start
 ```
 
-This command starts a local development server and open up a browser window. Most changes are reflected live without having to restart the server.
 
 ## Build
 
@@ -46,19 +60,19 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
   <img src="/build/img/ui.png" alt="DA Logo"  width="500" height="256" /> 
 </p>
 
-# Built With 
+## Built With 
 
 - [MongoDB](https://www.mongodb.com)
 - [Express.js](https://expressjs.com)
 - [React](https://reactjs.org)
 - [Node.js](https://nodejs.org/en/)
 
-# Team Members
+## Team Members
 
 - [Siddhesh Sambasivam](https://github.com/SiddeshSambasivam)
 - [Nhi Mai-Do](https://github.com/n-maido)
 - [Ravisha Sharma](https://github.com/ravisha7feb)
 
-# License
+## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) 
